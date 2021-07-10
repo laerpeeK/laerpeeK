@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about What you interested in.
 - 📫 How to reach me: 847749593@qq.com
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=laerpeeK&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=laerpeeK&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=laerpeeK)](https://github.com/anuraghazra/github-readme-stats)
