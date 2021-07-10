@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🤔 I’m looking for help with life.
 -->
 - 🔭 I’m currently working on Font-End achivement.
 - 🌱 I’m currently learning JavaScript/Ivx/CSS.
 - 👯 I’m looking to collaborate on Saas. 
-- 🤔 I’m looking for help with life.
 - 💬 Ask me about What you interested in.
 - 📫 How to reach me: 847749593@qq.com
 
