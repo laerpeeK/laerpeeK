@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🤔 I’m looking for help with life.
 -->
-- 🔭 I’m currently working on Font-End achivement.
+- 🔭 I’m currently working on FrontEnd achivement.
 - 🌱 I’m currently learning JavaScript/Ivx/CSS.
 - 👯 I’m looking to collaborate on Saas. 
 - 💬 Ask me about What you interested in.
