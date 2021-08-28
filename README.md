@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with life.
 -->
 - 🔭 I’m currently working on FrontEnd achivement.
-- 🌱 I’m currently learning JavaScript/Ivx/CSS.
+- 🌱 I’m currently learning JavaScript/Ivx/CSS/React.
 - 👯 I’m looking to collaborate on Saas. 
 - 💬 Ask me about What you interested in.
 - 📫 How to reach me: 847749593@qq.com
