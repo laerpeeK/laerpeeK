@@ -10,8 +10,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on FrontEnd achivement.
 - 🌱 I’m currently learning JavaScript/Ivx/CSS/React.
-- 👯 I’m looking to collaborate on Saas. 
-- 💬 Ask me about What you interested in.
 - 📫 How to reach me: 847749593@qq.com
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=laerpeeK&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
