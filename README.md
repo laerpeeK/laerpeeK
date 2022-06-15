@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with life.
 -->
 - 🔭 希望成为一名可靠的工程师.
-- 🌱 最近在学习JavaScript/IVX/计算机组成原理/数据结构与算法.
-- 📫 电子信息工程本科毕业/目前是一名前端开发/目标掌握全栈&AI技术.
+- 🌱 最近在学习webpack/git/数据结构与算法.
+- 📫 电子信息工程(本科)-CUG.
 - 😄 相信技术的力量.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=laerpeeK&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
