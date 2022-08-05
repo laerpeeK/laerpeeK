@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with life.
 -->
 - 🔭 希望成为一名可靠的工程师.
-- 🌱 最近在学习webpack/git/vue3/数据结构与算法.
+- 🌱 最近在学习typescript/css3/vue3/数据结构与算法.
 - 📫 电子信息工程(本科)-CUG.
 - 😄 相信技术的力量.
 
