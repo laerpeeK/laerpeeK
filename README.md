@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 希望成为一名可靠的工程师.
 - 🌱 最近在学习typescript/vue3/Node.js.
-- 📫 电子信息工程(本科)-CUG.
+- 📫 HTML/CSS/SCSS/JavaScript/TypeScript/Vue/NodeJS/Express/MongoDB/Webpack
 - 😄 相信技术的力量.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=laerpeeK&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
