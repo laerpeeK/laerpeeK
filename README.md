@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 📫 HTML/CSS/SCSS/JavaScript/TypeScript/Vue/NodeJS/Express/MongoDB/Webpack
 - 😄 相信技术的力量.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=laerpeeK&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=laerpeeK&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=laerpeeK&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs ](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=laerpeeK&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
